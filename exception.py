@@ -1,0 +1,2 @@
+class TempliteSyntaxError(ValueError):
+    pass
